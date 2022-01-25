@@ -37,4 +37,8 @@ console.log(answer)
 // example: ['Peter', 'Mary']
 
 
+
+
+
+
 // 7. Show us an example of a switch statement being used
