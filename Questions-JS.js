@@ -39,6 +39,4 @@ console.log(answer)
 
 
 
-
-
 // 7. Show us an example of a switch statement being used
