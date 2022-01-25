@@ -1,7 +1,15 @@
 Explain what the ".map" properties of arrays does.
 
+    The .map properties of arrays iterates through an array with a callback function, creating a new array based on the existing array
+
 Explain what the ".reduce" properties of arrays does.
+
+    The .reduce properties of arrays are used to reduce an array to one single value as opposed to forEach and map
 
 How is ".map" different from reduce?
 
+    The one key difference between .map and reduce is, .map generates a new array
+
 What are "switch" statements?
+
+    Switch statements are used to perform different actions based on different conditions.
