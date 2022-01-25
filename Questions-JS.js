@@ -29,8 +29,8 @@ const userData = [
 // Each object should have the id of the user and the amount of favorite foods they have.
 // example: [{id: '111', favoriteFoods: 2}]
 
-let answer = userData.map((item) => {
-	return { id: item.id, favoriteFoods: item.favorites.food };
+const answer = userData.map((item) => {
+	return { id: item.id, favoriteFoods: item.favorites.food.length };
 });
 console.log('Question 5: ', answer);
 
